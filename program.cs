@@ -1,6 +1,6 @@
 class program
 {
-	static void main(String args[])
+	static void Main(string args[])
 	{
 		Console.WriteLine("Welcome to Snake and Ladder Problem");
 		int numOfPlayers = 1;
