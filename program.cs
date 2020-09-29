@@ -21,7 +21,9 @@ class program
 				startPoint=0;
 			if(stratPoint>100)
 				startPoint-=roll;
+			Console.Write(startPoint+" ");
 		}
+		Console.WriteLine("100");
 		Console.WriteLine("The number of times the die was rolled: "+count);
 	}
 }
